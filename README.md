@@ -1,9 +1,6 @@
-def main():
-    profile = """
 Hi, I'm FRANCIS ORWARU!
 
 MULTIPOTENTIALITE | GEOMATIC ENGINEER | DATA SCIENCE STUDENT | DRONE PILOT
-
 
 ABOUT ME:
 
@@ -15,7 +12,6 @@ ABOUT ME:
 - ADHD brain with a billion ideas learning to execute consistently and smartly  
 - Aiming for boss-level independence
 
-
 CORE SKILLS:
 
 - Drone Technology & Aerial Surveying
@@ -25,7 +21,6 @@ CORE SKILLS:
 - Data Science (Python, ML, Statistics – learning phase)
 - Creative Sketching & Design
 
-
 FEATURED PROJECTS:
 
 > Drone survey projects at my current company  
@@ -34,12 +29,10 @@ FEATURED PROJECTS:
 > Personal sketchbook: freestyle drawing & creative explorations  
 > (Not yet published—watch this space!)
 
-
 CONNECT WITH ME:
 
 - LinkedIn: https://www.linkedin.com/in/francis-orwaru-273124293?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpRtsxqpQQ0S2eka3nBM9xw%3D%3D
 - Instagram: https://www.instagram.com/anko_bazenga?igsh=MXBqY3lnMjV1ZWt5bg==
-
 
 FUN FACTS AND GOALS:
 
@@ -50,13 +43,7 @@ FUN FACTS AND GOALS:
 - Always learning, always sketching, always moving  
 - Motto: “Ideas are everywhere, execution is everything.”
 
-
 Thanks for stopping by! If you vibe with drones, data, design, or dreams, let’s connect!
-    """
-    print(profile)
-
-if __name__ == "__main__":
-    main()
 
 <!--
 **Caesarf14/Caesarf14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
